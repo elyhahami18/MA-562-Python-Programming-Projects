@@ -17,3 +17,7 @@ Green Cup: Awarded to the Circle or Crescent House who has the largest GPA incre
 Chivers Cup: Awarded to the Circle or Crescent House who has the highest cumulative GPA
 Project #2 presents a program that finds the top three Lawrenceville School houses in each category given an excel spreadsheet including 
 grade data from the 2021 school year. Included data cleaning and file reading/writing in python. 
+
+
+
+Project #3: Using Tkinter Graphical User Interface (GUI), project #3 is a python script for an interactive, two-player tic tac toe game. The objective of the game is the first person to get three X's or O's across, down, or diagnol a 3x3 grid with alternating turns between X's and O's. 
