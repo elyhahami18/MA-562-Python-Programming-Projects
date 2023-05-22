@@ -3,46 +3,6 @@
 
 # 
 # # Project #3 -- Tkinter Game
-#     
-# 
-# ## For this project, you are going to create a game that plays inside a Tkinter GUI.  Below is a list of possible games for you to create, although you are free to come up with your own idea if you are not interested in the games below.  Here are some general rules:
-# <blockquote>
-#     
-# - ### The game must be played within a Tkinter window.  If you can't figure out how to display information in the Tkinter window, you can let it display in Jupyter, but that will affect your Tkinter standard for the project.
-# <br>
-#     
-# - ### There are a lot of game tutorials out there on the internet, particularly for Tkinter.  You *may not* simply follow an online tutorial that shows you how to make a Tkinter game.  Don't even watch them.  If you have a specific question on how to do something in Tkinter, you may look up a solution, ask your teacher, or ask a classmate.  But as always you must cite the source of the solution in comments within your code (next to where the solution was applied).
-#     
-# - ### You will have 5 class days (6 if we decide to work on the project during Winter Gathering when parents visit class) and three nights of homework to complete this project.
-#  
-# </blockquote>
-# 
-# ## Some game ideas:
-# <blockquote>
-#     
-# - ### Tic-Tac-Toe
-# 
-# - ### Bulls & Cows (although any code from your original project won't be counted towards the standards)
-#     
-# - ### Wordle
-#     
-# - ### Snowman (Word guessing game where parts of your snowman "disappear" as the guesses wrong letters)
-# 
-# - ### Matching game
-#     
-# - ### Multiple-choice trivia game
-#     </blockquote>
-# 
-# ## It is strongly recommended that you initially focus on basic functionality over asthetics or bells & whistles.  Once you get your game working, then you can add features and dress it up a bit.  Good luck!
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
 
 ## choosing Tic Tac Toe Game
 ## recieved help via this link: https://www.youtube.com/watch?v=uVrzuKVus7s
